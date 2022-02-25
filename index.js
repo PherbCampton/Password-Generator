@@ -6,7 +6,7 @@ let pass4El = document.getElementById("password4")
 
 function gen() {
   let srt = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' + 
-  'abcdefghijklmnopqrstuvwxyz0123456789@#$';
+  'abcdefghijklmnopqrstuvwxyz0123456789@#$!@"}{?><|}{?#$%^&*()_+'
   let pass = ''
   let size = srt.length
 
