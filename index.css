@@ -71,6 +71,7 @@ input {
     margin-right: 0;
     width: 45%;
     font-weight: 500;
+    outline: none;
 
 }
 hr {
